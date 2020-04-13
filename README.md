@@ -12,13 +12,8 @@ According to the version of Internet Explorer used by your system, change the co
 
 | IE Version  | Setting |
 | ------------- | ------------- |
-| IE11  | [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\MAIN\FeatureControl\FEATURE_BROWSER_EMULATION]
-"hh.exe"=dword:00002AF8  |
-| IE10  | [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\MAIN\FeatureControl\FEATURE_BROWSER_EMULATION]
-"hh.exe"=dword:00002710  |
-| IE9  | [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\MAIN\FeatureControl\FEATURE_BROWSER_EMULATION]
-"hh.exe"=dword:00002328  |
-| IE8  | [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\MAIN\FeatureControl\FEATURE_BROWSER_EMULATION]
-"hh.exe"=dword:00001F40  |
-| IE7  | [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\MAIN\FeatureControl\FEATURE_BROWSER_EMULATION]
-"hh.exe"=dword:00001B5  |
+| IE11 | [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\MAIN\FeatureControl\FEATURE_BROWSER_EMULATION]"hh.exe"=dword:00002AF8  |
+| IE10 | [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\MAIN\FeatureControl\FEATURE_BROWSER_EMULATION]"hh.exe"=dword:00002710  |
+| IE9  | [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\MAIN\FeatureControl\FEATURE_BROWSER_EMULATION]"hh.exe"=dword:00002328  |
+| IE8  | [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\MAIN\FeatureControl\FEATURE_BROWSER_EMULATION]"hh.exe"=dword:00001F40  |
+| IE7  | [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\MAIN\FeatureControl\FEATURE_BROWSER_EMULATION]"hh.exe"=dword:00001B5   |
