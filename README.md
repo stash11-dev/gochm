@@ -31,4 +31,6 @@ Changing the registry settings according to your Internet Explorer version.
 
 # Version
 2020-04-13 gochm 1.14.2  
-2020-06-17 gochm 1.14.4
+2020-06-17 gochm 1.14.4  
+add examples to content items
+optimize content item icon
