@@ -9,7 +9,7 @@ If you have any suggestions or requirements, please feel free to contact me by e
 + 🌟 The navigation panel `improve the efficiency` of switching between packages, switching between objects in a package.    
 + The search panel can quickly locate relevant content by keywords.  
 
-  🚀 **If this project helps you, please feel free to star it, the attention is my motivation for updating.**
+  🚀 **`If this project helps you, please feel free to star it, the attention is my motivation for updating.`**
 
 
 
