@@ -11,7 +11,7 @@ If you have any suggestions or requirements, please feel free to contact me by e
 
   🚀 **`If this project helps you, please feel free to star it, the attention is my motivation for updating.`**
 
-![Error](image/scrape1.gif)
+![Error](image/scrape.gif)
 
 # Usage
 To avoid errors like this:
