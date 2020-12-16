@@ -11,7 +11,8 @@ If you have any suggestions or requirements, please feel free to contact me by e
 
   🚀 **`If this project helps you, please feel free to star it, the attention is my motivation for updating.`**
 # Demo
-https://player.bilibili.com/player.html?aid=244396662&amp;bvid=BV1Mv41117KD&amp;cid=230795893&amp;aid=84267566&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=0
+https://www.bilibili.com/video/av244396662
+
 ![Error](image/scrape1.gif)
 
 # Usage
