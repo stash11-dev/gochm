@@ -13,7 +13,6 @@ If you have any suggestions or requirements, please feel free to contact me by e
 # Demo
 https://www.bilibili.com/video/av244396662
 
-![Error](image/scrape1.gif)
 
 # Usage
 To avoid errors like this:
